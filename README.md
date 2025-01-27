@@ -1,8 +1,23 @@
- # Projeto Extração de API do zero - Projeto completo de ETL com Python e Microsoft Azure, até o Dashboard.
+ 
+<p align="center">
+  <a href="https://suajornadadedados.com.br/"><img src="https://github.com/lvgalvao/data-engineering-roadmap/raw/main/pics/logo.png" alt="Jornada de Dados"></a>
+</p>
+<p align="center">
+    <em>Nossa missão é fornecer o melhor ensino em engenharia de dados</em>
+</p>
+
+Bem-vindo a **Jornada de Dados**
+
+# Extração de API do zero - Projeto completo de ETL com Python e Microsoft Azure, até o Dashboard.
+Aqui está o **README** atualizado, agora usando a **API da Bitcoin na Coinbase** como referência:
 
 ---
 
-## 💰 **Data Pipeline: Extração de Dados Bitcoin com ETL em Python**  
+Esquema do projeto: [app.excalidraw.com](https://app.excalidraw.com/s/8pvW6zbNUnD/9zZctm3OR9f)
+
+---
+
+# 💰 **Data Pipeline: Extração de Dados Bitcoin com ETL em Python**  
 
 ## **Introdução**  
 
@@ -76,6 +91,14 @@ Ao final deste projeto, você será capaz de:
 - Monitorar o preço da Bitcoin ao longo do tempo.  
 - Identificar padrões de variação diária, semanal ou mensal.  
 - Criar alertas para valores mínimos/máximos.  
+
+---
+
+## **Próximos Passos**  
+Este projeto é apenas o começo. Nos próximos módulos, cobriremos:  
+1. **Transformação Avançada**: Limpeza e enriquecimento dos dados.  
+2. **Armazenamento Persistente**: Introdução a bancos de dados em nuvem.  
+3. **Visualização de Dados**: Construção de dashboards interativos.  
 
 ---
 
@@ -448,19 +471,3 @@ POSTGRES_DB=postgres
 2. **`exemplo_05.py`** (ou outro nome principal): faz o ETL, cria a tabela usando `Base`, e salva os dados usando a instância da `Session`.  
 
 Com isso, você removeu completamente a parte de SSL.
-
-## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## ✨ Autor
-Gabriel Marcano - [@marcanogc](https://github.com/marcanogc)
-
-## 📧 Contato
-- Email: marcanogc@gmail.com
-- LinkedIn: [Gabriel Marcano](https://linkedin.com/in/gabriel-marcano)
-
----
-⌨️ com ❤️ por [Gabriel Marcano](https://github.com/marcanogc)
-# ETLProjectAPIExtract
-# ETLProjectAPIExtract
-# ETLProjectAPIExtract
